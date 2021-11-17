@@ -1,0 +1,57 @@
+{
+    "access": "public",
+    "accessInformation": null,
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1576002406000,
+    "culture": "en-us",
+    "description": "\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>The objective of this simple survey is to ground-truth the modeled fine-scale vegetation map for the state of Idaho, in terms of both structural composition (% grass/forb, shrub, deciduous tree, coniferous tree, etc.) and predominant species composition.</p>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "id": "92e9b695758a4040bb2ee694716b66eb",
+    "industries": [
+    ],
+    "itemControl": "admin",
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": null,
+    "listed": false,
+    "modified": 1576020150000,
+    "name": "Simple_Veg_Survey_2019_v3.zip",
+    "numComments": 0,
+    "numRatings": 0,
+    "numViews": 2,
+    "orgId": "FjJI5xHF2dUPVrgK",
+    "owner": "AmandaCarr_IDFG",
+    "ownerFolder": "84c4f15290a446159e899882679cc717",
+    "properties": null,
+    "protected": false,
+    "proxyFilter": null,
+    "scoreCompleteness": 51,
+    "screenshots": [
+    ],
+    "size": 248811,
+    "snippet": "Fine-scale vegetative ground-truthing",
+    "spatialReference": null,
+    "tags": [
+    ],
+    "thumbnail": "thumbnail/Simple_Veg_Survey_2019_V2.jpg",
+    "title": "Simple_Veg_Survey_2019_v3",
+    "type": "Form",
+    "typeKeywords": [
+        "Form",
+        "Survey123",
+        "Survey123 Connect",
+        "xForm"
+    ],
+    "url": null
+}
