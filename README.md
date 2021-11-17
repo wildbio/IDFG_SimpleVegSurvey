@@ -1,2 +1,2 @@
 # IDFG_SimpleVegSurvey
-Survey123 digital field survey for collecting simple vegetation data (Idaho Fish and Game)
+This Survey123 digital field survey walks Idaho Fish and Game employees through collecting basic vegetation point data, including functional cover and structural and species composition.
